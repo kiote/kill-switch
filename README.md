@@ -5,3 +5,7 @@ This app only makes sence if you are under OSX and want to manage your disturbin
 # Installation
 
 Simply clone the repo and start the app
+
+# Trust No One
+
+Name of the app is inspired by [Kill Switch](https://en.wikipedia.org/wiki/Kill_Switch_(The_X-Files)) episode of The X-Files
